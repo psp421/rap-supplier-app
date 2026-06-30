@@ -1,6 +1,0 @@
-@EndUserText.label: 'Service Binding: BP Supplier OData V4'
-@EnterpriseSettings.businessObjectCategory: #PRIMARY_ENTITY
-
-define service binding ZUI_BP_SUPPLIER_O4
-  services { ZUI_BP_SUPPLIER_O4 }
-  binding type odata v4 - ui;

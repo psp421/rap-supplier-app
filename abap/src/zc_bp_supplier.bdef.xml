@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <BDEF>
-    <BDEFNAME>ZC_BP_SUPPLIER</BDEFNAME>
-    <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>Behavior Projection for ZC_BP_SUPPLIER</DDTEXT>
+    <DESCRIPTION>Behavior Projection for ZC_BP_SUPPLIER</DESCRIPTION>
+    <LANGUAGE>EN</LANGUAGE>
+    <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
    </BDEF>
   </asx:values>
  </asx:abap>

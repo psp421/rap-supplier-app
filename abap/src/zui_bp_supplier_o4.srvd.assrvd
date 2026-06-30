@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition: BP Supplier OData V4'
+define service ZUI_BP_SUPPLIER_O4 {
+  expose ZC_BP_SUPPLIER as Supplier;
+}

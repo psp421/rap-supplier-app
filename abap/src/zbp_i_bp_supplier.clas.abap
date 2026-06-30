@@ -1,0 +1,11 @@
+CLASS zbp_i_bp_supplier DEFINITION
+  PUBLIC
+  ABSTRACT
+  FINAL
+  FOR BEHAVIOR OF zi_bp_supplier.
+
+ENDCLASS.
+
+CLASS zbp_i_bp_supplier IMPLEMENTATION.
+
+ENDCLASS.

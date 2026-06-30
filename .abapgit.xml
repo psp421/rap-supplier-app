@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DATA>
+   <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
+   <STARTING_FOLDER>/abap/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/.gitignore</item>
+    <item>/README.md</item>
+    <item>/webapp/</item>
+    <item>/package.json</item>
+    <item>/ui5.yaml</item>
+    <item>/abap/01_ZBP_SUPPLIER_table.asddls</item>
+    <item>/abap/02_ZBP_SUPPLIER_D_draft_table.asddls</item>
+    <item>/abap/03_ZI_BP_SUPPLIER_interface_view.ddls</item>
+    <item>/abap/04_ZI_BP_SUPPLIER_behavior_def.bdef</item>
+    <item>/abap/05_ZBP_I_BP_SUPPLIER_impl_class_CCIMP.abap</item>
+    <item>/abap/06_ZC_BP_SUPPLIER_projection_view.ddls</item>
+    <item>/abap/07_ZC_BP_SUPPLIER_behavior_projection.bdef</item>
+    <item>/abap/08_ZUI_BP_SUPPLIER_O4_service_def.srvd</item>
+    <item>/abap/09_README_ADT_steps.md</item>
+    <item>/abap/09_ZUI_BP_SUPPLIER_O4_service_binding.srvb</item>
+    <item>/abap/ZPO_Hist_table.asddls</item>
+    <item>/Create-ZPO_HIST.ps1</item>
+   </IGNORE>
+  </DATA>
+ </asx:values>
+</asx:abap>

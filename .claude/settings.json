@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//tmp/**)",
+      "Skill(update-config)",
+      "Skill(update-config:*)"
+    ]
+  }
+}

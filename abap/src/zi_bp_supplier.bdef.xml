@@ -2,10 +2,11 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_BDEF" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
-   <DATA>
+   <BDEF>
     <BDEFNAME>ZI_BP_SUPPLIER</BDEFNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <DDTEXT>Behavior Definition for ZI_BP_SUPPLIER</DDTEXT>
-   </DATA>
+   </BDEF>
   </asx:values>
  </asx:abap>
 </abapGit>

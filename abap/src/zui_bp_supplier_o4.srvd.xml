@@ -2,10 +2,11 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_SRVD" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
-   <DATA>
+   <SRVD>
     <SRVDNAME>ZUI_BP_SUPPLIER_O4</SRVDNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
     <DDTEXT>Service Definition: BP Supplier OData V4</DDTEXT>
-   </DATA>
+   </SRVD>
   </asx:values>
  </asx:abap>
 </abapGit>

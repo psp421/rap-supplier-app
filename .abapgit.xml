@@ -21,6 +21,7 @@
     <item>/abap/08_ZUI_BP_SUPPLIER_O4_service_def.srvd</item>
     <item>/abap/09_README_ADT_steps.md</item>
     <item>/abap/09_ZUI_BP_SUPPLIER_O4_service_binding.srvb</item>
+    <item>/abap/src/zui_bp_supplier_o4.srvb.xml</item>
     <item>/abap/ZPO_Hist_table.asddls</item>
     <item>/Create-ZPO_HIST.ps1</item>
    </IGNORE>

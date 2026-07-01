@@ -26,7 +26,6 @@ CLASS lhc_supplier IMPLEMENTATION.
     result-%update         = if_abap_behv=>auth-allowed.
     result-%delete         = if_abap_behv=>auth-allowed.
     result-%action-Edit    = if_abap_behv=>auth-allowed.
-    result-%action-Prepare = if_abap_behv=>auth-allowed.
   ENDMETHOD.
 
   METHOD fill_preliminary_key.

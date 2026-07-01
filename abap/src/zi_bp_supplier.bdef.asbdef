@@ -18,6 +18,8 @@ etag master ChangedAt
   update;
   delete;
 
+  early numbering;
+
   draft action Edit;
   draft action Activate;
   draft action Discard;

@@ -9,6 +9,8 @@ lock master total etag LocalLastChangedAt
 authorization master ( global )
 etag master ChangedAt
 {
+  early numbering;
+
   field ( readonly ) SupplierUUID;
   field ( readonly ) CreatedBy, CreatedAt, ChangedBy, ChangedAt, LocalLastChangedAt;
   field ( mandatory ) SupplierName;

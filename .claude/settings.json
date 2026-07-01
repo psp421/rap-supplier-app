@@ -3,7 +3,12 @@
     "allow": [
       "Read(//tmp/**)",
       "Skill(update-config)",
-      "Skill(update-config:*)"
+      "Skill(update-config:*)",
+      "WebSearch",
+      "Bash(gh api *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit -m 'Remove invalid early numbering from BDEF; remove FOR NUMBERING handler *)"
     ]
   }
 }
